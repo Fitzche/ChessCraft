@@ -1,0 +1,7 @@
+name: ChessPlugin
+version: '1.0'
+author: fitzche
+main: fr.fitzche.chesscraft.Main
+commands:
+  c:
+    description: chess multifunctionnal
