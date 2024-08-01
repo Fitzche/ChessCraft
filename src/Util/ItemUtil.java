@@ -1,4 +1,4 @@
-package fr.fitzche.chesscraft;
+package Util;
 
 import java.util.List;
 

@@ -3,5 +3,5 @@ version: '1.0'
 author: fitzche
 main: fr.fitzche.chesscraft.Main
 commands:
-  c:
+  chess:
     description: chess multifunctionnal

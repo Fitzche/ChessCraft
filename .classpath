@@ -6,7 +6,7 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="lib" path="spigot.jar"/>
-	<classpathentry kind="lib" path="ChessAPI.jar"/>
+	<classpathentry exported="true" kind="lib" path="spigot.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Utilisateur/Documents/GitHub/ChessCraft/ChessLib.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
